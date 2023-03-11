@@ -164,13 +164,13 @@
       "languageVersion": "2.14"
     },
     {
-      "name": "flutter_tex_js",
+      "name": "Atl_render",
       "rootUri": "../",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     }
   ],
-  "generated": "2023-03-11T05:22:38.425025Z",
+  "generated": "2023-03-11T05:58:41.749822Z",
   "generator": "pub",
   "generatorVersion": "2.19.4"
 }
